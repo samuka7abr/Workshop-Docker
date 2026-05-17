@@ -57,11 +57,3 @@ Pré-requisito: WSL2 ativo. Verificar com `wsl --status` no PowerShell.
 Documentação oficial: https://docs.docker.com/desktop/setup/install/mac-install/
 
 Escolha a versão correta do instalador: Apple Silicon (M1, M2, M3) ou Intel.
-
----
-
-## Plano B
-
-Caso a instalação local não funcione, use o lab gratuito no navegador:
-
-https://labs.play-with-docker.com
